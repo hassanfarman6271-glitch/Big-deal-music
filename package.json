@@ -1,0 +1,17 @@
+{
+  "name": "premium-discord-music-bot",
+  "version": "1.0.0",
+  "description": "Advanced Discord Music Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@distube/yt-dlp": "^2.0.1",
+    "discord.js": "^14.15.3",
+    "distube": "^5.0.2",
+    "express": "^4.19.2",
+    "ffmpeg-static": "^5.2.0",
+    "libsodium-wrappers": "^0.7.13"
+  }
+}
